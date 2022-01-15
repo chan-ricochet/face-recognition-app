@@ -1,4 +1,4 @@
-package com.example.location;
+package com.mukham.android.location;
 
 import org.junit.Test;
 

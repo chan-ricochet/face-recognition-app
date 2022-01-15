@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a sample actions.xml -->
+<actions>
+    <action intentName="actions.intent.OPEN_APP_FEATURE">
+        <!-- Fallback fulfillment with no required parameters -->
+        <fulfillment urlTemplate="https://mukham.page.link/zXbp"/>
+
+        <!-- Define parameters with inventories here -->
+        <parameter name="feature">
+            <entity-set-reference entitySetId="featureParamEntitySet"/>
+        </parameter>
+    </action>
+
+    <entity-set entitySetId="featureParamEntitySet">
+        <!-- Provide an identifier per entity -->
+        <entity identifier="Mark my attendance" name="featureParam_one" />
+        <entity identifier="Open Mukham" name="featureParam_two" />
+    </entity-set>
+</actions>

@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "539049408766",
+    "firebase_url": "https://mukham-ac493-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mukham-ac493",
+    "storage_bucket": "mukham-ac493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539049408766:android:4e0d1fa7f562247e820daf",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp47RsPo_CX7D_vdp68kRFB2Y9iBxBG80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539049408766:android:08831175076bdee2820daf",
+        "android_client_info": {
+          "package_name": "com.example.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp47RsPo_CX7D_vdp68kRFB2Y9iBxBG80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539049408766:android:925470921796fb11820daf",
+        "android_client_info": {
+          "package_name": "com.mukham.android.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp47RsPo_CX7D_vdp68kRFB2Y9iBxBG80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539049408766:android:b170584cc39b1d4b820daf",
+        "android_client_info": {
+          "package_name": "com.mukham.android.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp47RsPo_CX7D_vdp68kRFB2Y9iBxBG80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539049408766-qu0anvt42oen21kd90srl09g642mj1r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
